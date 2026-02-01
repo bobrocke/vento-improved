@@ -1,0 +1,11 @@
+id = "ventorjr"
+name = "VentoRJR"
+version = "0.0.1"
+schema_version = 1
+authors = ["Deniz Akşimşek <deniz@aksimsek.tr>", "Bob Rocke"]
+description = "Highlighting for the Vento templating language with YAML front matter support"
+repository = "https://codeberg.org/dz4k/zed-vento"
+
+[grammars.vento]
+repository = "https://github.com/bobrocke/tree-sitter-vento/"
+commit = "1952170d387605763f328afa012ddb338cac7279"
