@@ -4,7 +4,7 @@ version = "0.0.3"
 schema_version = 1
 authors = ["Deniz Akşimşek <deniz@aksimsek.tr>", "Bob Rockefeller"]
 description = "Highlighting for the Vento templating language with YAML front matter support"
-repository = "https://github.com/bobrocke/zed-vento"
+repository = "https://github.com/bobrocke/vento-improved"
 
 [grammars.vento]
 repository = "https://github.com/bobrocke/tree-sitter-better-vento/"
